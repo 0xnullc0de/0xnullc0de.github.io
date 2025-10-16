@@ -6,7 +6,10 @@ image:
 layout: post
 media_subpath: /assets/images/down
 tags:
-- linux
+- ssfr
+- command-injection
+- password cracking
+- pswm(python password manager)
 - hackthebox
 title: Lab - Down Walkthrough
 ---
