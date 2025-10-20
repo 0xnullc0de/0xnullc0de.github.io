@@ -2,7 +2,7 @@
 categories:
 - Hackthebox
 image:
-  path: Pasted image 20251021014633.png
+  path: sendai.png
 layout: post
 media_subpath: /assets/images/sendai
 tags:
