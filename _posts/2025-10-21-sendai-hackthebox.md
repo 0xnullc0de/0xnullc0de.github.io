@@ -743,4 +743,4 @@ nt authority\system
 
 C:\programdata>
 ```
-Root flag located at: `C:\Users\Administrator\Desktop\root.txt`
+Root flag located at : `C:\Users\Administrator\Desktop\root.txt`
