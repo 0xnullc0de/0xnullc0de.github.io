@@ -24,7 +24,6 @@ tags:
 - godpotato
 - lateral movement
 - privilege escalation
-- red team
 title: Lab - @Sendai Walkthrough
 ---
 
