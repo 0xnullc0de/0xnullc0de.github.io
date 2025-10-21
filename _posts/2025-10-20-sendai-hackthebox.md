@@ -25,7 +25,7 @@ tags:
 - lateral movement
 - privilege escalation
 - red team
-title: Lab - Sendai Walkthrough
+title: Lab - @Sendai Walkthrough
 ---
 
 # Introduction
