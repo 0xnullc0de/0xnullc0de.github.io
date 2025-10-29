@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://0xnullc0de.github.io/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/categories/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/archives/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/about/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/posts/sendai-hackthebox/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/posts/active-hackthebox/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/posts/down-hackthebox/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/posts/support-hackthebox/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/hackthebox/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/active-directory/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/bloodhound/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/bloodyad/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/command-injection/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/gmsa/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/godpotato/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/gpp/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/group-managed-service-accounts-gmsa/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/group-policy-preferences/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/categories/hackthebox/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/categories/vulnlab/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/impacket/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/kerberoasting/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/kerberos/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/lateral-movement/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/medium/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/mssql/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/password-cracking/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/password-spraying/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/privilege-escalation/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/pswm-python-password-manager/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/resource-based-constrained-delegation/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/silver-ticket/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/ssfr/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/token-impersonation/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/windows/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://0xnullc0de.github.io/tags/writeup/</loc>
+  <lastmod>2025-10-29T06:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
