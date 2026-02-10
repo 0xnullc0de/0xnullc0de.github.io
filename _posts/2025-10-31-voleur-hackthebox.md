@@ -17,7 +17,6 @@ tags:
 - wsl
 - lateral movement
 - privilege escalation
-- test
 
 title: Lab - Voleur Walkthrough
 ---
