@@ -1018,4 +1018,3 @@ evil-winrm-py PS C:\Users\Administrator\Documents>
 
 **Root flag**: `C:\Users\Administrator\Desktop\root.txt`
 
-****
