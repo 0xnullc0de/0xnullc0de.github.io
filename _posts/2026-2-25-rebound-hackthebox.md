@@ -30,6 +30,7 @@ title: HTB - Rebound Walkthrough
 Rebound is an "Insane" difficulty Windows domain controller that demonstrates numerous advanced Active Directory attack techniques. The box requires understanding of Kerberos authentication, service principal names (SPNs), delegation types, cross-session relay attacks, and Group Managed Service Accounts (gMSA). This writeup provides detailed explanations of each concept as they appear in the attack chain.
 ## Technical Concepts Reference
 Before diving in, here's a quick reference of key AD concepts we'll encounter:
+
 | Concept | Description |
 |---------|-------------|
 | **SPN** | Service Principal Name - unique identifier for a service instance |
@@ -40,6 +41,7 @@ Before diving in, here's a quick reference of key AD concepts we'll encounter:
 | **gMSA** | Group Managed Service Account - computer-managed service accounts with automatic password rotation |
 | **Cross-Session Relay** | Relaying authentication from one user session to another |
 | **DCSync** | Simulating domain controller to replicate password hashes |
+
 ## Reconnaissance
 ### Port Scanning
 Initial `nmap` scan reveals a domain controller with standard AD services:
