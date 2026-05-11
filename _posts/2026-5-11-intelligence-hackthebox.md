@@ -23,7 +23,6 @@ title: HTB - Intelligence Walkthrough
 
 Intelligence is a medium-difficulty Windows domain controller that demonstrates multiple Active Directory attack techniques including PDF metadata analysis for user enumeration, password spraying, SMB share enumeration, DNS record manipulation to trigger NTLM authentication, NetNTLMv2 hash cracking, gMSA password extraction, and finally S4U2Proxy abuse via unconstrained delegation to impersonate the Administrator.
 
-![[Pasted image 20260511120421.png]]
 
 ## Reconnaissance
 ### Port Scanning
