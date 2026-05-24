@@ -45,7 +45,4 @@ Directory attacks and red team techniques.
 ## Get In Touch
 
 - **GitHub:** [0xnullc0de](https://github.com/0xnullc0de)
-- **HTB Profile:** [https://app.hackthebox.com/users/2029291?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs]
-- **Email:** [your preferred contact email]
-
 > *"Silence is the best payload."*
